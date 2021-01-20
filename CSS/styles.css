@@ -1,0 +1,115 @@
+body {
+ 
+  background-image: url("https://skateart.es/wp-content/uploads/2019/09/skateart-favicon.png");
+  background-color: orange;
+  font-family: sans-serif, serif;
+  font-size: 18px;
+  color: black;
+    
+}
+
+#principal-page {
+  background-color: rgba(65, 137, 147, 0.7);
+  border-radius: 30px;
+  position: relative;
+  width: 75%;
+  float: right;
+  margin: 5px 5px 5px 5px; 
+  padding: 12px;
+}
+#header {
+  font-family: cursive, fantasy;
+  font-size: 2em;
+  width: 60%;
+}
+#school-header {
+  font-family: "sans-serif", serif;
+  background-color: black;
+  color: rgba(255, 255, 255, 0.7);
+  padding: 2px
+  }
+
+h1 {
+  border-bottom: 2px solid black; 
+}
+#principal-page h3 {
+  color: orange;
+}
+
+#information-sider {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: orange;
+  line-height: 1.7em;
+  border-radius: 3px;
+  width: 20%;
+  padding: 1.5px;
+  margin: 20px;
+  text-align: center
+}
+
+#news-sider {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: orange;
+  line-height: 1.7em;
+  border-radius: 3px;
+    position: relative;
+    width: 20%;
+  padding: 1.5px;
+  margin: 20px;
+  text-align: center;
+}
+
+#text-information {
+  background-color: rgba( 74, 55, 145, 0.5);
+  font: 20px bold;
+  text-align: center;
+  border-radius: 3px;
+  position: relative;
+  float: right;
+  width: 20%;
+  height: 200px;
+  overflow: scroll;
+  padding: 15px;
+  margin: 40px;
+  bottom: 1500px;
+  right: 1.7em;
+}
+#text-information h3 {
+  border: 2px solid orange;
+  padding: 0.2em;
+  font-size: 1.3em;
+}
+#text-information h4 {
+  border-bottom: 2px solid orange;
+  padding: 0.2em;
+  text-align: center;
+}
+#text-information p {
+  line-height: 1.3em;
+  font-size: 0.85em;
+}
+.info-news {
+  font-style: italic;
+}
+.skaters-images {
+  border: 8px double black;
+  margin: 5px;
+}
+.skaters-info {
+  font-weight: bold;
+  font-size: 16px;
+  margin: 3px;
+  padding: 5px;
+  border-bottom: 2px solid orange;
+}
+#news-header {
+  font-size: 3em;
+  font-family: serif, sans-serif;
+}
+.news- {
+  border: dashed 1.9px;
+  font-size: 1.2em;
+  padding: 3px;
+  font-family: serif, sans-serif;
+}
+
